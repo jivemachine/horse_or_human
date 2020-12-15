@@ -1,0 +1,1 @@
+the purpose of this repository is to use transfer learning to build an image classifier that can classify humans from horses using data from tensorflow.data. the model we're going to use will be from MobileNetV2, which is apretrained neural net developed by google. 
